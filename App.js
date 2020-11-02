@@ -99,6 +99,8 @@ const App = () => {
         console.log('fetch error ', error)
       })
 
+      console.log('hi')
+
     // RNFetchBlob.fetch(
     //   'POST',
     //   URL_File_Add,
@@ -114,6 +116,8 @@ const App = () => {
     //   console.log('error RNFetchBlob ==========>', err.response)
     // })
   }
+
+  // looool
 
 
   return (
