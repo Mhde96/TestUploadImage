@@ -99,7 +99,7 @@ const App = () => {
         console.log('fetch error ', error)
       })
 
-      console.log('hi')
+      console.log('hi');
 
     // RNFetchBlob.fetch(
     //   'POST',
